@@ -1,0 +1,12 @@
+1768142620: mosquitto version 2.0.22 starting
+1768142620: Config loaded from /mosquitto/config/mosquitto.conf.
+1768142620: Opening ipv4 listen socket on port 1883.
+1768142620: mosquitto version 2.0.22 running
+1768142624: mosquitto version 2.0.22 terminating
+1768142624: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1768142624: mosquitto version 2.0.22 starting
+1768142624: Config loaded from /mosquitto/config/mosquitto.conf.
+1768142624: Opening ipv4 listen socket on port 1883.
+1768142624: mosquitto version 2.0.22 running
+1768142631: New connection from 172.18.0.3:51794 on port 1883.
+1768142631: New client connected from 172.18.0.3:51794 as nodereddc62e63b19186d5b (p2, c1, k60).
